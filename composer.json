@@ -1,5 +1,5 @@
 {
-	"name": "kristabs/laravel-breadcrumbs",
+	"name": "davejamesmiller/laravel-breadcrumbs",
 	"description": "A simple Laravel-style way to create breadcrumbs in Laravel 4+.",
 	"keywords": [
 		"laravel"
@@ -26,7 +26,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"kristabs\\Breadcrumbs\\": "src/"
+			"davejamesmiller\\Breadcrumbs\\": "src/"
 		}
 	}
 }
